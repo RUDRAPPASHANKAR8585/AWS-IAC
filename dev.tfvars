@@ -1,0 +1,5 @@
+region       = "us-east-2"
+environment  = "dev"
+namespace    = "sf"
+service_name1 = "hackathon-service-1"
+service_name2 =  "hackathon-service-2"
